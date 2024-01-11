@@ -1,16 +1,9 @@
 # proj_receitas_udemy
 
-A new Flutter project.
+Projeto Flutter feito para aprendizagem com curso Udemy.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplicação com gerenciamento de estado capaz de filtrar receitas por favoritas, sem glutén, sem lactose, vegetariana e vegana.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
